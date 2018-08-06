@@ -1,7 +1,7 @@
 # Repositório: Workshop - Criando uma Web App RESTFUL API em MEAN (Angular 5/6) by Glaucia Lemos
 
 <p align="center">
-  <img src="https://ibb.co/cfcKwK"/>  
+  <img src="https://i.imgsafe.org/86/861db1e830.jpeg"/>  
 </p>
 
 Repositório responsável pelo códigos desenvolvidos durante o workshop: **Criando uma Web App RESTFUL API em MEAN (Angular 5/6)**
